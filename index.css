@@ -5,6 +5,9 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
+    height:100vh; /* use 100% of the height of the viewport */
+    display:grid;             
+    place-items: center;
     
 }
 
@@ -13,7 +16,7 @@ body {
     margin: 0 auto;
     border: 2px solid #F7B700;
     background-color: #FFF3CB;
-    opacity: 0.;
+       
 }     
 
 h1 {
