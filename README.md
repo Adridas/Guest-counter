@@ -1,5 +1,7 @@
 # cof2947d6beb801377e1c6ed0
 
+At this project I have added extra functionality to the app as "total count" and  "Reset" function.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
@@ -11,3 +13,5 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+
